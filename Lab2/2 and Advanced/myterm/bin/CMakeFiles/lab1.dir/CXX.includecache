@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/daniel/Downloads/myterm/src/command.cxx
+command.h
+/home/daniel/Downloads/myterm/src/command.h
+iostream
+-
+boost/xpressive/xpressive.hpp
+-
+unistd.h
+-
+limits.h
+-
+dirent.h
+-
+sys/sysinfo.h
+-
+ctime
+-
+
+/home/daniel/Downloads/myterm/src/command.h
+string
+-
+vector
+-
+

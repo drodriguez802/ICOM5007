@@ -1,0 +1,15 @@
+1. quiensoy  ->  whoami
+
+2. quedir    ->  pwd
+
+3. lista     ->  ls
+
+4. fecha     ->  date
+
+5. prendida  ->  uptime
+
+7. history   OR history N : Where N is a natural number that is less than the size of the history vector.
+
+8. help
+
+6. exit
